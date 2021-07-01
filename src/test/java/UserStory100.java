@@ -4,5 +4,7 @@ public class UserStory100 {
         System.out.println("second commit");
         System.out.println("one more third commit");
 
+        System.out.println("new story 101");
     }
 }
+
